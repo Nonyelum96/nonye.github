@@ -17,22 +17,17 @@ header {
     text-align: center;
 }
 
-/*header {
-    position: relative; /* Add relative positioning to the header */
-  /*  padding-top: 0; //* Remove padding at the top of the header */
-
-
 .logo-container {
-    position: absolute; /* Absolute positioning for the logo container */
-    top: 0; /* Position it at the very top of the header */
-    left: 0; /* Position it at the left of the header */
+    position: absolute; 
+    top: 0;
+    left: 0; 
 }
 
 header img {
-    display: block; /* Ensures the image is a block-level element */
-    margin-top: 5px; /* Adjust this value to move the logo up */
-    width: 130px; /* Adjust the width as needed */
-    height: auto; /* This will maintain the aspect ratio */
+    display: block; 
+    margin-top: 5px; 
+    width: 130px;
+    height: auto; 
 }
 
 
