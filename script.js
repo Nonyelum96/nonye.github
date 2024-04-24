@@ -1,7 +1,6 @@
 document.querySelector('.hamburger-menu').addEventListener('click', function(){
     document.querySelector('.cheat-sheet-menu').classList.toggle('active');
 });
- //JavaScript for contact modal
 var modal = document.getElementById("contact-modal");
 var btn = document.getElementById("contact-btn");
 var span = document.getElementsByClassName("close")[0];
